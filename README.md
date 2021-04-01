@@ -2,7 +2,7 @@
 
 Enjoy a cozy fireplace in your terminal.
 
-![A gif of what to expect](demo.gif?raw=true "Cozy")
+![](demo.gif?raw=true)
 
 ## Using the docker image
 
